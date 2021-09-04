@@ -108,15 +108,15 @@ De acuerdo a lo visto en el ejemplo anterior podemos decir que para implementar 
 - El software mostrara al vendedor y al cliente datos correspondondientes  de la venta realizada.
 
 **Algortitmo**
-1. Solicitar codigo interno del empleado.
-2. Validar si el codigo ingresado es el correcto.
-3. Imprimir formulario.
-4. Capturar datos del formulario.
-5. Validar cual es la marca de la bicicleta.
-6. Validar color de la biblicleta.
-7. Calcular impuesto IVA.
-8. Calcular precio total de venta.
-9. Imprimir datos de venta a empleado y cliente.
+1. Solicitar nombre y codigo del empleado.
+2. Verificar si el codigo ingresado es el correcto.
+3. Registar venta en formulario.
+4. Calcular valor total de venta.
+5. Calcular valor IVA.
+6. Imprimir factura de venta a cliente.
+7. Calcular valor de comision.
+8. Imprimir bonificacion a empleado vendedor.
+
 
 
 
