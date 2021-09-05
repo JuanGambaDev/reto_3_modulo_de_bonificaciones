@@ -64,7 +64,7 @@ La empresa “Market cicle” desea incrementar sus ventas en esta época de pan
 
 **¿Quiénes son los interesados?**
 Cliente = La empresa “Market cicle”
-Usuarios = Empleados y clientes de la empresa Market cile.
+Usuarios = Empleados y clientes de la empresa Market cicle.
 
 **¿Cuál es el objetivo?**
 Realizar un programa con expresiones lógicas que pueda implementar el plan de incentivos diseñado por la empresa market place.
@@ -107,7 +107,7 @@ De acuerdo a lo visto en el ejemplo anterior podemos decir que para implementar 
 - El software realizara validaciones logigas y operaciones intermedias con los datos ingresados.
 - El software mostrara al vendedor y al cliente datos correspondondientes  de la venta realizada.
 
-**Algortitmo**
+**Algoritmo**
 1. Solicitar nombre y codigo del empleado.
 2. Verificar si el codigo ingresado es el correcto.
 3. Registar venta en formulario.
